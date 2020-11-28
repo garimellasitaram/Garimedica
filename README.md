@@ -1,4 +1,8 @@
 # Garimedica
+Running the application :
+You can run the application using
+java -jar sourcecode-reader-app-0.0.1-SNAPSHOT.jar
+
 
 Swagger URL:
 http://localhost:8080/swagger-ui.html#/exercise-controller
